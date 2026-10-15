@@ -1,0 +1,8 @@
+{
+  "name": "mouhand-skills",
+  "description": "Agent skills: phone-use (test Android apps on a real phone over ADB) and stacked-prs (create, restack, repair and merge stacked PRs).",
+  "version": "1.0.0",
+  "author": { "name": "Mouhand Kaddo" },
+  "repository": "https://github.com/Mouhand-Kaddo/skills",
+  "license": "MIT"
+}

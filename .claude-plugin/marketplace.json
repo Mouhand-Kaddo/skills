@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "mouhand-skills",
+  "owner": {
+    "name": "Mouhand Kaddo"
+  },
+  "plugins": [
+    {
+      "name": "mouhand-skills",
+      "description": "phone-use and stacked-prs agent skills",
+      "source": "./",
+      "category": "development"
+    }
+  ],
+  "description": "Agent skills by Mouhand Kaddo: phone-use and stacked-prs"
+}

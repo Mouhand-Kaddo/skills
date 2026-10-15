@@ -1,0 +1,6 @@
+interface:
+  display_name: "Phone Use"
+  short_description: "Test Android flows on a real connected phone"
+  default_prompt: "Use $phone-use to exercise the requested flow on the connected phone and record its results and limits."
+policy:
+  allow_implicit_invocation: true
